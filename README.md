@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a college student, currently studying B.Tech (3rd year) in Computer Science Engineering.<br>I’m deeply interested in Cyber Security and Ethical Hacking.<br>I enjoy exploring technology-related topics, including tech news, updates, and the latest gadgets.
+I’m a college student, currently studying B.Tech (4rd year) in Computer Science Engineering.<br>I’m deeply interested in Cyber Security and Ethical Hacking.<br>I enjoy exploring technology-related topics, including tech news, updates, and the latest gadgets.
 
 
 # 💻 Tech Stack:
